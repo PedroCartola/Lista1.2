@@ -23,3 +23,5 @@ for (int j = 0; j < 5; j++)
 {
     Console.WriteLine((j+1) + "º salário: " + salario[j]);
 }
+
+// Tem medo do escuro? É sábio - Cho'gath
